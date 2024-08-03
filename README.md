@@ -1,3 +1,3 @@
 # Nhat
-`khong co gi`
-
+-`Xin Chao`
+-`cd Nhat`
