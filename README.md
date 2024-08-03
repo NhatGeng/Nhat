@@ -1,4 +1,4 @@
 ### Nhat
--`Xin Chao`
- 
- -`cd Nhat`
+`Xin Chao`
+`git clone 
+`cd Nhat`
