@@ -1,4 +1,4 @@
-# Nhat
-`Xin Chao`
+### Nhat
+-`Xin Chao`
  
- `cd Nhat`
+ -`cd Nhat`
