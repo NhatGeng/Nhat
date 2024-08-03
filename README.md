@@ -1,7 +1,7 @@
 ### Nhat
 `Xin Chao`
 
-`git clone https://github.com/NhatGeng/Nhat/tree/main`
+`git clone https://github.com/NhatGeng/Nhat.git
 
 `cd Nhat`
 `python Nhat.py`
